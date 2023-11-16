@@ -76,9 +76,10 @@ SaaS là giải pháp giúp người sử dụng tiết kiệm chi phí, năng l
 
 - Triển khai nhanh chóng, dễ sử dụng:
 
-+ Khi đăng ký mua một sản phẩm theo mô hình SaaS, người dùng sẽ nhận về một giải pháp hoàn thiện và sẵn sàng để truy cập, sử dụng. Họ không cần đầu tư nhiều cơ sở hạ tầng, tài nguyên điện toán để thiết lập, cấu hình và vận hành ứng dụng; cũng không cần phải nâng cấp phần mềm hay bảo trì máy chủ và hệ điều hành mà ứng dụng đang chạy, những việc này thuộc về trách nhiệm của nhà cung cấp.
+ + Khi đăng ký mua một sản phẩm theo mô hình SaaS, người dùng sẽ nhận về một giải pháp hoàn thiện và sẵn sàng để truy cập, sử dụng. Họ không cần đầu tư nhiều cơ sở hạ tầng, tài nguyên điện toán để thiết lập, cấu hình và vận hành ứng dụng; cũng không cần phải nâng cấp phần mềm hay bảo trì máy chủ và hệ điều hành mà ứng dụng đang chạy, những việc này thuộc về trách nhiệm của nhà cung cấp.
 
-+ Tuy nhiên điều này cũng đồng nghĩa với việc người dùng khó có thể tùy chỉnh phần mềm để đáp ứng tối đa mọi nhu cầu của mình bởi đây là ứng dụng được thiết kế sẵn.
+ + Tuy nhiên điều này cũng đồng nghĩa với việc người dùng khó có thể tùy chỉnh phần mềm để đáp ứng tối đa mọi nhu cầu của mình bởi đây là ứng dụng được thiết kế sẵn.
+
 ![mo-hinh-dich-vu-dam-may-saas](https://github.com/tungbui2402/cloud-computing/assets/129025623/da4851a3-ad1c-4b8c-aa3f-b6c39e8f5908)
 
 
@@ -110,6 +111,7 @@ Mô hình SaaS được sử dụng phổ biến cho mục đích hợp tác ho�
 
 #### Ví dụ về SaaS
 Một số dịch vụ điện toán đám mây triển khai dựa trên mô hình SaaS nổi tiếng hiện nay là Microsoft 365, Google Workspace, Salesforce, Slack, VNPT Invoice, VNPT eContract,…
+
 ![mo-hinh-dich-vu-dam-may-saas-2](https://github.com/tungbui2402/cloud-computing/assets/129025623/d8edf10d-2176-4b5a-8f1d-3fdf2d2c9f6d)
 
 ### 2. PaaS – Nền tảng dưới dạng dịch vụ 
@@ -123,7 +125,8 @@ Với mô hình PaaS, người dùng được nhà cung cấp trao quyền truy 
 - Quyền truy cập máy chủ và bộ lưu trữ. 
 - Cơ sở dữ liệu.
 - Công cụ phát triển: Trình chỉnh sửa mã nguồn, trình gỡ lỗi, trình biên dịch, các công cụ hỗ trợ viết/ triển khai/ gỡ lỗi/ quản lý mã… 
-- Hệ điều hành, API trung gian,… 
+- Hệ điều hành, API trung gian,…
+  
 ![mo-hinh-dich-vu-dam-may-paas](https://github.com/tungbui2402/cloud-computing/assets/129025623/1c99b2c3-89cf-414e-bdb3-be81262b144c)
 
 
@@ -155,6 +158,7 @@ Khi sử dụng PaaS, mọi quy trình xây dựng, kiểm thử, triển khai v
 - Trả tiền theo mức sử dụng:
 
 + Mô hình dịch vụ điện toán đám mây PaaS được cung cấp tới người dùng theo nguyên tắc trả tiền theo nhu cầu sử dụng. Một dịch vụ PaaS sẽ đưa ra nhiều lựa chọn gói cước được định giá theo khả năng tính toán hệ thống, dung lượng lưu trữ và các tài nguyên mạng. Nhờ đó, người dùng có thể phát triển các ứng dụng mới và được giảm bớt gánh nặng về chi phí lẫn trách nhiệm.
+
 ![mo-hinh-dich-vu-dam-may-paas-2](https://github.com/tungbui2402/cloud-computing/assets/129025623/63d54a5f-1704-468b-8abd-f5deba125e50)
 
 
@@ -178,6 +182,7 @@ IaaS là viết tắt của thuật ngữ “Infrastructure as a Service”, là
 - Máy chủ ảo hoặc máy chủ chuyên dụng chạy trên nền máy tính vật lý.
 - Các dịch vụ kết nối mạng.
 - Trung tâm lưu trữ dữ liệu (Data center).
+
 ![co-so-ha-tang-iaas](https://github.com/tungbui2402/cloud-computing/assets/129025623/60031050-95fc-42a4-a0e9-ee32ece2f9ca)
 
 #### Đặc điểm của mô hình dịch vụ điện toán đám mây IaaS
@@ -206,6 +211,7 @@ Trong các loại dịch vụ điện toán đám mây, IaaS là mô hình có �
 - Tăng cường hỗ trợ kỹ thuật, hiệu suất và bảo mật cho cơ sở hạ tầng: 
 
 + Nhà cung cấp mô hình dịch vụ điện toán đám mây IaaS luôn phải đầu tư các biện pháp bảo mật chuyên sâu (mã hóa đầu cuối, mã hóa dữ liệu, tường lửa,…) cho các cơ sở hạ tầng CNTT, từ đó đảm bảo an toàn cho đám mây ảo mà họ cung cấp. Nhờ vậy, người dùng có thể an tâm về độ bảo mật cao hơn so với việc tự lưu trữ cơ sở hạ tầng tại chỗ.
+
 ![co-so-ha-tang-iaas-2](https://github.com/tungbui2402/cloud-computing/assets/129025623/bd278923-4f35-4247-a642-57a28cc2cae0)
 
 - Khả năng khắc phục thảm họa:
@@ -233,6 +239,7 @@ Nhờ tính linh hoạt cao, IaaS là sự lựa chọn lý tưởng để xây 
 Hiện nay có nhiều nhà cung cấp dịch vụ IaaS rất phổ biến như: Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine, VNPT Cloud…
 
 ### So sánh các loại hình dịch vụ của điện toán đám mây
+
 ![so-sanh-cac-dich-vu-cua-dien-toan-dam-may](https://github.com/tungbui2402/cloud-computing/assets/129025623/21959948-e856-46e1-b703-531a3e2688d7)
 
 ## IV. Những cloud phổ biến hiện nay
