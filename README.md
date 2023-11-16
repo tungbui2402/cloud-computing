@@ -306,3 +306,9 @@ Cloud computing chủ yếu được thúc đẩy bởi:
 - Platform as a Service (PaaS) - Trong mô hình dịch vụ này, mọi thứ hơi trừu tượng một chút khi chúng tôi có thể xây dựng ứng dụng của mình trên các nền tảng được cung cấp. Các dịch vụ sẽ được cung cấp dưới dạng API có thể được sử dụng khi cần thiết. Ví dụ về các hệ thống này sẽ là Google App Engine, cơ chế xác thực, hệ thống xếp hàng, v.v.
 
 - Software as a Service (SaaS) - Tại đây, toàn bộ ứng dụng đã sẵn sàng để sử dụng và nhiều khách hàng có thể sử dụng sản phẩm. Các chi tiết cơ bản của việc triển khai được ẩn hoàn toàn khỏi người dùng cuối. Ví dụ như các hệ thống lập lịch hẹn như Practo hoặc các công cụ CRM khác nhau từ Salesforce.
+
+
+## Nguồn tham khảo
+https://medium.com/@angelinmaryjohn/cloud-computing-what-exactly-is-it-ec218cb71a93
+
+https://fptcloud.com/cloud-computing-la-gi/
